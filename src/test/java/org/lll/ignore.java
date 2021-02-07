@@ -1,5 +1,5 @@
 package org.lll;
 
-public @interface ignore {
-
+public interface ignore {
+   void empid();
 }
